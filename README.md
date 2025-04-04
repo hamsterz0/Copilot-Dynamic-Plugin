@@ -18,7 +18,7 @@ The Copilot Dynamic Plugin ensures smarter, safer, and more personalized aviatio
 _Discover the future of aviation safety today with CDP._
  
  
-To summarize the installation steps, check below.  
+Below is the detailed setup process. To summarize the installation steps, check below.  
 ```
 --- End of context ---
 <|end|>
